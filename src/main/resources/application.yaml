@@ -1,0 +1,16 @@
+spring:
+  reactor:
+    debug-agent:
+      enabled: true
+  main:
+    web-application-type: reactive
+    allow-circular-references: false
+  application:
+    name: spring-reactive-functional-demo
+  netty:
+    leak-detection: simple
+
+logging:
+  level:
+    root: info
+    org.springframework: debug
