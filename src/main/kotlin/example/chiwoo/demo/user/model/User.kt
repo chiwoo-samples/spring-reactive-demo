@@ -1,4 +1,4 @@
-package example.chiwoo.demo.model
+package example.chiwoo.demo.user.model
 
 import com.fasterxml.jackson.annotation.JsonRootName
 import example.chiwoo.demo.NoArg

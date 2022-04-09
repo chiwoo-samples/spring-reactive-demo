@@ -1,4 +1,4 @@
-package example.chiwoo.demo.model
+package example.chiwoo.demo.user.model
 
 import example.chiwoo.demo.utils.RandomUtils
 import java.time.LocalDateTime
